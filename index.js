@@ -3,14 +3,14 @@ import { render } from 'react-dom'
 import { Router, Route, hashHistory } from 'react-router'
 import App from './modules/App'
 import About from './modules/About'
-import Repos from './modules/Repos'
-import Repo from './modules/Repo'
+import Katas from './modules/Katas'
+import Kata from './modules/Kata'
 
 render((
   <Router history={hashHistory}>
     <Route path="/" component={App}>
-      <Route path="/repos" component={Repos}>
-        <Route path="/repos/:username/:repoName" component={Repo}/>
+      <Route path="/katas" component={Katas}>
+        <Route path="/katas/:username/:kataName" component={Kata}/>
       </Route>
       <Route path="/about" component={About}/>
     </Route>
