@@ -1,0 +1,823 @@
+{
+  "totalPages": 1,
+  "totalItems": 91,
+  "data": [
+    {
+      "id": "57cebe1dc6fdc20c57000ac9",
+      "name": "Shortest Word",
+      "slug": "shortest-word",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-03-15T22:26:40Z"
+    },
+    {
+      "id": "53dc23c68a0c93699800041d",
+      "name": "Sentence Smash",
+      "slug": "sentence-smash",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-03-14T02:21:53Z"
+    },
+    {
+      "id": "56f3f6a82010832b02000f38",
+      "name": "Be Concise I - The Ternary Operator",
+      "slug": "be-concise-i-the-ternary-operator",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-12-13T00:52:48Z"
+    },
+    {
+      "id": "53af2b8861023f1d88000832",
+      "name": "Are You Playing Banjo?",
+      "slug": "are-you-playing-banjo",
+      "completedLanguages": [
+        "ruby"
+      ],
+      "completedAt": "2017-11-27T03:15:38Z"
+    },
+    {
+      "id": "563b662a59afc2b5120000c6",
+      "name": "Growth of a Population",
+      "slug": "growth-of-a-population",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-08-17T01:22:48Z"
+    },
+    {
+      "id": "5899dc03bc95b1bf1b0000ad",
+      "name": "Invert values",
+      "slug": "invert-values",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-07-01T13:33:10Z"
+    },
+    {
+      "id": "55a144eff5124e546400005a",
+      "name": "Classy Classes",
+      "slug": "classy-classes",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-05-10T02:15:58Z"
+    },
+    {
+      "id": "55908aad6620c066bc00002a",
+      "name": "Exes and Ohs",
+      "slug": "exes-and-ohs",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-05-07T06:23:30Z"
+    },
+    {
+      "id": "54da539698b8a2ad76000228",
+      "name": "Take a Ten Minute Walk",
+      "slug": "take-a-ten-minute-walk",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-05-06T10:06:08Z"
+    },
+    {
+      "id": "541c8630095125aba6000c00",
+      "name": "Sum of Digits / Digital Root",
+      "slug": "sum-of-digits-slash-digital-root",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-05-06T02:13:19Z"
+    },
+    {
+      "id": "57356c55867b9b7a60000bd7",
+      "name": "Basic Mathematical Operations",
+      "slug": "basic-mathematical-operations",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-05-05T09:54:31Z"
+    },
+    {
+      "id": "5656b6906de340bd1b0000ac",
+      "name": "Two to One",
+      "slug": "two-to-one",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-05-04T01:40:30Z"
+    },
+    {
+      "id": "5648b12ce68d9daa6b000099",
+      "name": "Number of People in the Bus",
+      "slug": "number-of-people-in-the-bus",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-05-01T22:08:37Z"
+    },
+    {
+      "id": "57eae20f5500ad98e50002c5",
+      "name": "Remove String Spaces",
+      "slug": "remove-string-spaces",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-04-24T00:39:14Z"
+    },
+    {
+      "id": "5672a98bdbdd995fad00000f",
+      "name": "Rock Paper Scissors!",
+      "slug": "rock-paper-scissors",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-04-22T19:30:07Z"
+    },
+    {
+      "id": "515e271a311df0350d00000f",
+      "name": "Square(n) Sum",
+      "slug": "square-n-sum",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-04-01T01:30:01Z"
+    },
+    {
+      "id": "57a0e5c372292dd76d000d7e",
+      "name": "String repeat",
+      "slug": "string-repeat",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-03-31T00:49:54Z"
+    },
+    {
+      "id": "53369039d7ab3ac506000467",
+      "name": "Convert boolean values to strings 'Yes' or 'No'.",
+      "slug": "convert-boolean-values-to-strings-yes-or-no",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-03-31T00:12:22Z"
+    },
+    {
+      "id": "544675c6f971f7399a000e79",
+      "name": "Convert a String to a Number!",
+      "slug": "convert-a-string-to-a-number",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-03-31T00:04:26Z"
+    },
+    {
+      "id": "5265326f5fda8eb1160004c8",
+      "name": "Convert a Number to a String!",
+      "slug": "convert-a-number-to-a-string",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-03-30T00:53:07Z"
+    },
+    {
+      "id": "56269eb78ad2e4ced1000013",
+      "name": "Find the next perfect square!",
+      "slug": "find-the-next-perfect-square",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-03-05T03:42:48Z"
+    },
+    {
+      "id": "56bc28ad5bdaeb48760009b0",
+      "name": "Remove First and Last Character",
+      "slug": "remove-first-and-last-character",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-03-05T00:59:49Z"
+    },
+    {
+      "id": "57f6ad55cca6e045d2000627",
+      "name": "To square(root) or not to square(root)",
+      "slug": "to-square-root-or-not-to-square-root",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-03-01T01:11:18Z"
+    },
+    {
+      "id": "554e4a2f232cdd87d9000038",
+      "name": "Complementary DNA",
+      "slug": "complementary-dna",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-03-01T00:06:04Z"
+    },
+    {
+      "id": "54c27a33fb7da0db0100040e",
+      "name": "You're a square!",
+      "slug": "youre-a-square",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-02-28T00:08:16Z"
+    },
+    {
+      "id": "52fba66badcd10859f00097e",
+      "name": "Disemvowel Trolls",
+      "slug": "disemvowel-trolls",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-02-28T00:01:49Z"
+    },
+    {
+      "id": "5266876b8f4bf2da9b000362",
+      "name": "Who likes it?",
+      "slug": "who-likes-it",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-02-14T06:48:44Z"
+    },
+    {
+      "id": "546e2562b03326a88e000020",
+      "name": "Square Every Digit",
+      "slug": "square-every-digit",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-02-14T06:07:39Z"
+    },
+    {
+      "id": "5264d2b162488dc400000001",
+      "name": "Stop gninnipS My sdroW!",
+      "slug": "stop-gninnips-my-sdrow",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-02-14T05:40:32Z"
+    },
+    {
+      "id": "514b92a657cdc65150000006",
+      "name": "Multiples of 3 or 5",
+      "slug": "multiples-of-3-or-5",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-02-14T02:28:49Z"
+    },
+    {
+      "id": "57a2013acf1fa5bfc4000921",
+      "name": "Calculate average ",
+      "slug": "calculate-average",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-02-08T05:16:14Z"
+    },
+    {
+      "id": "5467e4d82edf8bbf40000155",
+      "name": "Descending Order",
+      "slug": "descending-order",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-01-31T13:47:54Z"
+    },
+    {
+      "id": "5889177bf148eddd150002cc",
+      "name": "TIY-FizzBuzz",
+      "slug": "tiy-fizzbuzz",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-01-30T19:15:25Z"
+    },
+    {
+      "id": "56747fd5cb988479af000028",
+      "name": "Get the Middle Character",
+      "slug": "get-the-middle-character",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-01-25T02:06:31Z"
+    },
+    {
+      "id": "55c606e6babfc5b2c500007c",
+      "name": "Failed Filter - Bug Fixing #3",
+      "slug": "failed-filter-bug-fixing-number-3",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-01-25T01:23:02Z"
+    },
+    {
+      "id": "5390bac347d09b7da40006f6",
+      "name": "Jaden Casing Strings",
+      "slug": "jaden-casing-strings",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-01-25T01:02:51Z"
+    },
+    {
+      "id": "560f8d41cf6e1fe5c900002e",
+      "name": "Find variable which breaks strict comparison!",
+      "slug": "find-variable-which-breaks-strict-comparison",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-01-24T23:11:46Z"
+    },
+    {
+      "id": "576b93db1129fcf2200001e6",
+      "name": "Sum without highest and lowest number",
+      "slug": "sum-without-highest-and-lowest-number",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-01-24T01:10:21Z"
+    },
+    {
+      "id": "576bb71bbbcf0951d5000044",
+      "name": "Count of positives / sum of negatives",
+      "slug": "count-of-positives-slash-sum-of-negatives",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-01-21T01:20:13Z"
+    },
+    {
+      "id": "54ff3102c1bad923760001f3",
+      "name": "Vowel Count",
+      "slug": "vowel-count",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-01-19T01:37:03Z"
+    },
+    {
+      "id": "554b4ac871d6813a03000035",
+      "name": "Highest and Lowest",
+      "slug": "highest-and-lowest",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-01-19T00:55:35Z"
+    },
+    {
+      "id": "5513795bd3fafb56c200049e",
+      "name": "Count by X",
+      "slug": "count-by-x",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-01-19T00:40:19Z"
+    },
+    {
+      "id": "55685cd7ad70877c23000102",
+      "name": "Return Negative",
+      "slug": "return-negative",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-01-19T00:31:38Z"
+    },
+    {
+      "id": "55c933c115a8c426ac000082",
+      "name": "Switch/Case - Bug Fixing #6",
+      "slug": "switch-slash-case-bug-fixing-number-6",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-01-16T17:13:34Z"
+    },
+    {
+      "id": "55c7f90ac8025ebee1000062",
+      "name": "Failed Sort - Bug Fixing #4",
+      "slug": "failed-sort-bug-fixing-number-4",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-01-16T16:54:32Z"
+    },
+    {
+      "id": "55c90cad4b0fe31a7200001f",
+      "name": "String Templates - Bug Fixing #5",
+      "slug": "string-templates-bug-fixing-number-5",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-01-16T16:52:38Z"
+    },
+    {
+      "id": "55c423ecf847fbcba100002b",
+      "name": "Regex Failure - Bug Fixing #2",
+      "slug": "regex-failure-bug-fixing-number-2",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-01-16T15:34:56Z"
+    },
+    {
+      "id": "55c28f7304e3eaebef0000da",
+      "name": "Unfinished Loop -  Bug Fixing #1",
+      "slug": "unfinished-loop-bug-fixing-number-1",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-01-16T15:30:43Z"
+    },
+    {
+      "id": "577ad961ae2807182f000c29",
+      "name": "Count the Characters",
+      "slug": "count-the-characters",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-01-16T13:42:28Z"
+    },
+    {
+      "id": "54e6533c92449cc251001667",
+      "name": "Unique In Order",
+      "slug": "unique-in-order",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-01-16T11:43:54Z"
+    },
+    {
+      "id": "552564a82142d701f5001228",
+      "name": "Discover The Original Price",
+      "slug": "discover-the-original-price",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-01-15T22:02:50Z"
+    },
+    {
+      "id": "5667e8f4e3f572a8f2000039",
+      "name": "Mumbling",
+      "slug": "mumbling",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-01-15T21:27:04Z"
+    },
+    {
+      "id": "55eca815d0d20962e1000106",
+      "name": "Generate range of integers",
+      "slug": "generate-range-of-integers",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-01-15T20:04:50Z"
+    },
+    {
+      "id": "55f2b110f61eb01779000053",
+      "name": "Beginner Series #3 Sum of Numbers",
+      "slug": "beginner-series-number-3-sum-of-numbers",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-01-15T19:09:15Z"
+    },
+    {
+      "id": "57a55c8b72292d057b000594",
+      "name": "Reversing Words in a String",
+      "slug": "reversing-words-in-a-string",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-01-15T12:49:15Z"
+    },
+    {
+      "id": "5866c6cf442e3f16f9000089",
+      "name": "All Star Code Challenge #24",
+      "slug": "all-star-code-challenge-number-24",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-01-15T02:11:29Z"
+    },
+    {
+      "id": "56b1f01c247c01db92000076",
+      "name": "Double Char",
+      "slug": "double-char",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-01-15T01:43:13Z"
+    },
+    {
+      "id": "56dec885c54a926dcd001095",
+      "name": "Opposite number",
+      "slug": "opposite-number",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-01-15T01:21:11Z"
+    },
+    {
+      "id": "5715eaedb436cf5606000381",
+      "name": "Sum of positive",
+      "slug": "sum-of-positive",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-01-14T21:27:25Z"
+    },
+    {
+      "id": "53da3dbb4a5168369a0000fe",
+      "name": "Even or Odd",
+      "slug": "even-or-odd",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-01-14T20:21:16Z"
+    },
+    {
+      "id": "5721a78c283129e416000999",
+      "name": "Training JS #10: loop statement --for",
+      "slug": "training-js-number-10-loop-statement-for",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-01-14T03:18:12Z"
+    },
+    {
+      "id": "57eae65a4321032ce000002d",
+      "name": "Fake Binary",
+      "slug": "fake-binary",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-01-11T14:26:36Z"
+    },
+    {
+      "id": "57216d4bcdd71175d6000560",
+      "name": "Training JS #9: loop statement --while and do..while",
+      "slug": "training-js-number-9-loop-statement-while-and-do-dot-while",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-01-11T14:08:26Z"
+    },
+    {
+      "id": "584c702256c98fc0a0000043",
+      "name": "Fizz Buzz - Without ifs",
+      "slug": "fizz-buzz-without-ifs",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-01-09T14:22:15Z"
+    },
+    {
+      "id": "572059afc2f4612825000d8a",
+      "name": "Training JS #8: Conditional statement--switch",
+      "slug": "training-js-number-8-conditional-statement-switch",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-01-08T21:37:52Z"
+    },
+    {
+      "id": "57202aefe8d6c514300001fd",
+      "name": "Training JS #7: if..else and ternary operator",
+      "slug": "training-js-number-7-if-dot-else-and-ternary-operator",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-01-08T15:44:10Z"
+    },
+    {
+      "id": "571f832f07363d295d001ba8",
+      "name": "Training JS #6:  Basic data types--Boolean  and conditional statements if..else",
+      "slug": "training-js-number-6-basic-data-types-boolean-and-conditional-statements-if-dot-else",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-01-05T16:48:34Z"
+    },
+    {
+      "id": "578e8fb075ffd1891e000a6a",
+      "name": "Milliseconds",
+      "slug": "milliseconds",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-01-04T14:57:32Z"
+    },
+    {
+      "id": "5701800886306a876a001031",
+      "name": "Suzuki needs help lining up his students!",
+      "slug": "suzuki-needs-help-lining-up-his-students",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-01-03T15:33:27Z"
+    },
+    {
+      "id": "571f1eb77e8954a812000837",
+      "name": "Training JS #5:  Basic data types--Object",
+      "slug": "training-js-number-5-basic-data-types-object",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-01-02T00:44:13Z"
+    },
+    {
+      "id": "571effabb625ed9b0600107a",
+      "name": "Training JS #4:  Basic data types--Array",
+      "slug": "training-js-number-4-basic-data-types-array",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-01-02T00:19:58Z"
+    },
+    {
+      "id": "571edea4b625edcb51000d8e",
+      "name": "Training JS #3:  Basic data types--String",
+      "slug": "training-js-number-3-basic-data-types-string",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-01-02T00:08:52Z"
+    },
+    {
+      "id": "571edd157e8954bab500032d",
+      "name": "Training JS #2:  Basic data types--Number",
+      "slug": "training-js-number-2-basic-data-types-number",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-01-01T23:59:50Z"
+    },
+    {
+      "id": "571ec274b1c8d4a61c0000c8",
+      "name": "Training JS #1: create your first JS function and print \"Helloworld!\"",
+      "slug": "training-js-number-1-create-your-first-js-function-and-print-helloworld",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-01-01T23:54:34Z"
+    },
+    {
+      "id": "53dbd5315a3c69eed20002dd",
+      "name": "List Filtering",
+      "slug": "list-filtering",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2016-12-28T13:27:10Z"
+    },
+    {
+      "id": "56676e8fabd2d1ff3000000c",
+      "name": "A Needle in the Haystack",
+      "slug": "a-needle-in-the-haystack",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2016-12-27T20:48:18Z"
+    },
+    {
+      "id": "54edbc7200b811e956000556",
+      "name": "Counting sheep...",
+      "slug": "counting-sheep-dot-dot-dot",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2016-12-22T17:47:46Z"
+    },
+    {
+      "id": "5834315e06f227a6ac000099",
+      "name": "Find twins",
+      "slug": "find-twins",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2016-12-21T15:30:46Z"
+    },
+    {
+      "id": "574b1916a3ebd6e4fa0012e7",
+      "name": "They say that only the name is long enough to attract attention. They also said that only a simple Kata will have someone to solve it. This is a sadly story #1: Are they opposite?",
+      "slug": "they-say-that-only-the-name-is-long-enough-to-attract-attention-they-also-said-that-only-a-simple-kata-will-have-someone-to-solve-it-this-is-a-sadly-story-number-1-are-they-opposite",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2016-12-20T14:59:38Z"
+    },
+    {
+      "id": "57e76bc428d6fbc2d500036d",
+      "name": "Convert a string to an array",
+      "slug": "convert-a-string-to-an-array",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2016-12-19T03:03:42Z"
+    },
+    {
+      "id": "57fb09ef2b5314a8a90001ed",
+      "name": "Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence",
+      "slug": "exclamation-marks-series-number-11-replace-all-vowel-to-exclamation-mark-in-the-sentence",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2016-12-19T02:42:19Z"
+    },
+    {
+      "id": "57fae964d80daa229d000126",
+      "name": "Exclamation marks series #1: Remove a exclamation mark from the end of string",
+      "slug": "exclamation-marks-series-number-1-remove-a-exclamation-mark-from-the-end-of-string",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2016-12-16T14:21:58Z"
+    },
+    {
+      "id": "57d2807295497e652b000139",
+      "name": "Averages of numbers",
+      "slug": "averages-of-numbers",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2016-12-15T14:46:56Z"
+    },
+    {
+      "id": "584dc1b7766c2bb158000226",
+      "name": "Help Suzuki complete his chores!",
+      "slug": "help-suzuki-complete-his-chores",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2016-12-14T21:14:56Z"
+    },
+    {
+      "id": "577a98a6ae28071780000989",
+      "name": "Find Maximum and Minimum Values of a List",
+      "slug": "find-maximum-and-minimum-values-of-a-list",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2016-12-13T15:17:09Z"
+    },
+    {
+      "id": "57e92e91b63b6cbac20001e5",
+      "name": "Holiday VIII - Duty Free",
+      "slug": "holiday-viii-duty-free",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2016-12-13T14:27:44Z"
+    },
+    {
+      "id": "55d24f55d7dd296eb9000030",
+      "name": "Grasshopper - Summation",
+      "slug": "grasshopper-summation",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2016-12-12T16:59:48Z"
+    },
+    {
+      "id": "5583090cbe83f4fd8c000051",
+      "name": "Convert number to reversed array of digits",
+      "slug": "convert-number-to-reversed-array-of-digits",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2016-12-12T15:03:43Z"
+    },
+    {
+      "id": "55225023e1be1ec8bc000390",
+      "name": "Jenny's secret message",
+      "slug": "jennys-secret-message",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2016-12-12T14:41:03Z"
+    },
+    {
+      "id": "50654ddff44f800200000001",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2016-11-15T17:56:33Z"
+    },
+    {
+      "id": "50654ddff44f800200000004",
+      "name": "Multiply",
+      "slug": "multiply",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2016-11-15T17:55:40Z"
+    }
+  ]
+}
