@@ -11,3 +11,5 @@ if (string.length === 0) {
   }     
 }
 // string.length === 0 ? newObj : console.log(string.length)
+//
+// https://www.codewars.com/kata/count-characters-in-your-string/train/javascript
